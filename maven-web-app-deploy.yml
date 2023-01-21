@@ -12,7 +12,7 @@ spec:
      app: mavenwebapp
  template:
   metadata:
-   name: mavenmavenwebapppod
+   name: mmavenwebapppod
    labels:
      app: mavenwebapp	 
   spec: 
